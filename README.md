@@ -13,6 +13,10 @@ javac market/*.java
 java market/Main
 ```
 
-## Here is a **Tip**!
+## here is a tip!
 
 There is no animal registered yet. You must first sign up as a seller and add an animal to sell, then you will be able to enjoy the rest of the functionalities in the project.
+
+## class diagram
+
+![](./class-diagram.png)
